@@ -31,6 +31,7 @@ body {
     background-image: url("./img/bg.svg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .h-logo {
@@ -505,6 +506,7 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     height: 440px;
+    background-position: center;
 }
 
 .footer {
